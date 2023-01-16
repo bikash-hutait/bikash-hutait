@@ -4,7 +4,7 @@
 - 📫 Reach me Email: bikash.hutait03@gmail.com  | Skype: bikash.hutait
 
 - Linkedin : /bikash-hutait (https://www.linkedin.com/in/bikash-hutait/)
-- Twitter : @bikashhutait (https://twitter.com/https://twitter.com/hasan_py)
+- Twitter : @bikashhutait (https://twitter.com/bikashhutait)
 - Youtube : bikashhutait03 (https://www.youtube.com/channel/UCuPn6dpKsVJkUH-_OyTBI4g)
 
 <!---
