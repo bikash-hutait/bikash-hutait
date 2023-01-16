@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Bikash Hutait
 - 👀 I’m Full Stack Developer · Python Developer · React Developer
-- 🌱 I’m currently learning Machine Learning with Python
+- 🌱 I’m currently learning Machine Learning with Python | Backend developer (Java, Spring, Spring Boot)
 - 📫 Reach me Email: bikash.hutait03@gmail.com  | Skype: bikash.hutait
 
 - Linkedin : /bikash-hutait (https://www.linkedin.com/in/bikash-hutait/)
