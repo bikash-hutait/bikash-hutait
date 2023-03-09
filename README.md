@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bikash Hutait</h1>
-<h3 align="center">A passionate Full Stack Developer | Python Developer | React Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer | Python Developer | React Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikash-hutait&label=Profile%20views&color=0e75b6&style=flat" alt="bikash-hutait" /> </p>
 
