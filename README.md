@@ -1,20 +1,26 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/116364066?v=4" align="center" style="width: 100%" />
-</div>  
-  
+ <h3>Hello! I'm Bikash Hutait, a passionate Java Backend Developer. Let's code together! 👨‍💻 </h3>  
+<br/> 
+ 
 
-### <div align="center">Hello! I'm Bikash Hutait, a passionate Java Backend Developer. Let's code together! 👨‍💻 </div>  
+🌱 I’m currently learning Python 
+<br/>  
 
-🌱 I’m currently learning Python
 👩‍💻 I find joy in solving complex coding problems and puzzles.
+<br/>  
+
 🌐 I am fascinated by the power of coding to connect people from all around the world.
+<br/>  
+
 🐛 Debugging is like detective work, and I enjoy the challenge of tracking down elusive bugs.
+<br/>  
+
 💡 I believe coding is a continuous learning journey, and there's always something new to discover.
+<br/>  
+
 💻 I love the satisfaction of seeing lines of code come together to create functional and impactful applications. 
   
 
-<br/>  
-
+<br/> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bikash-hutait) 
