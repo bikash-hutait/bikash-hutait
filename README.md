@@ -1,3 +1,4 @@
+I am a skilled software developer proficient in Java, PHP, Spring Boot, and AWS, passionate about creating efficient and reliable solutions for complex software challenges.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bikash-hutait) 
