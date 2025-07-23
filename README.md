@@ -25,6 +25,10 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bikash-hutait) 
 
+
+## 📬 Contact Me
+
+Feel free to reach out via email: [test@test.com](mailto:test@test.com)
 # 💻 Tech Stack
 
 ## 🌐 Frontend
@@ -42,8 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="52" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" width="52" alt="CodeIgniter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="Laravel" />
 </div>
 
 ## 🗄️ Database
@@ -54,17 +58,16 @@
 
 ## 🔌 APIs & Integrations
 <div align="left">
-  <img height="40" width="52" src="https://img.shields.io/badge/Zapier-F03D00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier Badge" />
-  <img height="40" width="52" src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe Badge" />
-  <img height="40" width="52" src="https://img.shields.io/badge/QuickBooks-21B345?style=for-the-badge&logo=intuit&logoColor=white" alt="QuickBooks Badge" />
-  <img height="40" width="52" src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot Badge" />
+  <img src="https://img.shields.io/badge/Zapier-F03D00?style=for-the-badge&logo=zapier&logoColor=white" height="28" alt="Zapier Badge" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="28" alt="Stripe Badge" />
+  <img src="https://img.shields.io/badge/QuickBooks-21B345?style=for-the-badge&logo=intuit&logoColor=white" height="28" alt="QuickBooks Badge" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="28" alt="HubSpot Badge" />
 </div>
-
 
 ## ☁️ Cloud & DevOps
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="Google Cloud" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="AWS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="Nginx" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="Apache" />
 </div>
@@ -76,21 +79,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="GitLab" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="NPM" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime/sublime-original.svg" height="40" width="52" alt="Sublime Text" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Sublime_Text_3_logo.png" height="40" width="40" alt="Sublime Text" />
 </div>
 
 ## 🛒 CMS & E-commerce
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="52" alt="WordPress" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="40" width="52" alt="Magento" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencart/opencart-original.svg" height="40" width="52" alt="OpenCart" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/OpenCart_logo.svg/320px-OpenCart_logo.svg.png" height="40" width="80" alt="OpenCart" />
+  <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" height="40" width="52" alt="Shopify" />
 </div>
 
 ## 🧑‍💼 Project & Team Management
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="JIRA" />
 </div>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bikash-hutait&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
