@@ -25,10 +25,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bikash-hutait) 
 
-
 ## 📬 Contact Me
 
-Feel free to reach out via email: [test@test.com](mailto:test@test.com)
+Feel free to reach out via email: [bikash.hutait03@gmail.com](mailto:bikash.hutait03@gmail.com)
 # 💻 Tech Stack
 
 ## 🌐 Frontend
@@ -47,7 +46,7 @@ Feel free to reach out via email: [test@test.com](mailto:test@test.com)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="52" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" width="52" alt="CodeIgniter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="Laravel" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LaravelLogo.png/250px-LaravelLogo.png" height="40" width="52" alt="Laravel" />
 </div>
 
 ## 🗄️ Database
@@ -67,7 +66,7 @@ Feel free to reach out via email: [test@test.com](mailto:test@test.com)
 ## ☁️ Cloud & DevOps
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="Google Cloud" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="AWS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/330px-Amazon_Web_Services_Logo.svg.png" height="40" width="52" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="Nginx" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="Apache" />
 </div>
@@ -79,21 +78,27 @@ Feel free to reach out via email: [test@test.com](mailto:test@test.com)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="GitLab" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="NPM" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="VS Code" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Sublime_Text_3_logo.png" height="40" width="40" alt="Sublime Text" />
+  
 </div>
 
 ## 🛒 CMS & E-commerce
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="52" alt="WordPress" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="40" width="52" alt="Magento" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/OpenCart_logo.svg/320px-OpenCart_logo.svg.png" height="40" width="80" alt="OpenCart" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/OpenCart_logo.svg/330px-OpenCart_logo.svg.png" height="40" width="80" alt="OpenCart" />
   <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" height="40" width="52" alt="Shopify" />
 </div>
 
 ## 🧑‍💼 Project & Team Management
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="JIRA" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA Badge" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Badge" />
+  <img src="https://img.shields.io/badge/Basecamp-56B68B?style=for-the-badge&logo=basecamp&logoColor=white" alt="Basecamp Badge" />
+  <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white" alt="Asana Badge" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp Badge" />
+  <img src="https://img.shields.io/badge/Podio-0082C9?style=for-the-badge&logo=podio&logoColor=white" alt="Podio Badge" />
 </div>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bikash-hutait&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
