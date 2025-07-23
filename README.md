@@ -2,7 +2,7 @@
 <br/> 
  
 
-🌱 I’m currently learning Python 
+🌱 Team Lead with expertise in Backend and Full Stack Development
 <br/>  
 
 👩‍💻 I find joy in solving complex coding problems and puzzles.
